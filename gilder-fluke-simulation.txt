@@ -1,0 +1,22 @@
+Main Config Page(
+    Display table 
+        Columns: "DMX_512 Addr", "Min Scale", "Max Scale", "Force Pos, "Power Def", "Vel Limit"
+        Rows: Axis 0, Axis 1, Axis 2, Axis 3
+
+    Options
+        s) axis to modify: #
+        1) Set minimum range
+        2) Set maximum range
+        3) Force output to value
+        4) Set PowerOn Default
+        5) Set Velocity Limit
+        6) Network Settings
+        k) feedback Config
+        n) next
+        l) last
+        i) info
+        o) Def
+        g) loop
+        h) Halt
+        x) Xit
+)
