@@ -14,6 +14,10 @@ This program is intended to simulate Gilderfluke systems software.  Its a simple
 4. After installing Python and `pipenv`, use your terminal of choice to navigate to the folder where you cloned the repository.
 5. Run `mkdir .venv` to create a new folder that will contain your virtual environment.
 6. Run `pipenv sync` to install packages from the lock file.
-7. Run `pipenv shell` to start using the virtual environment.
-8. Now, you can run `python python.py` to start the simulation.
-9. At any point, if you wish to close the simulation, you can press CTRL+C to break out of it.
+
+## Running the Simulation
+
+1. Run `pipenv shell` to start using the virtual environment.
+2. Now, you can run `python python.py` to start the simulation.
+3. At any point, if you wish to close the simulation, you can press CTRL+C to break out of it or simply close the terminal.
+4. If you close the session and want to reopen it, start by navigating to the folder using your terminal of choice and repeat the steps for running the simulation.
