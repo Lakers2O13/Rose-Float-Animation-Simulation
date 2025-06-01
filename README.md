@@ -10,7 +10,7 @@ This program is intended to simulate Gilderfluke systems software.  Its a simple
 ## Installation
 
 1. Make sure Python is installed.  This project was created using Python 3.12 so its proabably best to use that one.  You can check if its installed and what version it is using `python --version` in your terminal of choice.
-2. This project is best when used with `pipenv`.  You can run `pip install pipenv` to install it locally on your computer.
+2. This project was created and intended to be used with `pipenv`.  You can run `pip install pipenv` to install it locally on your computer.
 4. After installing Python and `pipenv`, use your terminal of choice to navigate to the folder where you cloned the repository.
 5. Run `mkdir .venv` to create a new folder that will contain your virtual environment.
 6. Run `pipenv sync` to install packages from the lock file.
